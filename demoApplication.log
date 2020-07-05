@@ -1,0 +1,14 @@
+2020-07-05 11:49:14,892 [main] INFO  genericquestionaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:49:21,922 [main] INFO  genericquestionaire.Main  - 1 -> {content=Czy lubisz koty?}
+2020-07-05 11:49:21,922 [main] INFO  genericquestionaire.Main  - 2 -> {content=Czy lubisz psy?}
+2020-07-05 11:49:21,922 [main] INFO  genericquestionaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:53:13,153 [main] INFO  genericquestionaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:53:18,709 [main] INFO  genericquestionaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:53:41,237 [main] INFO  genericquestionaire.Main  - 1 -> {content=Czy lubisz koty?}
+2020-07-05 11:53:41,237 [main] INFO  genericquestionaire.Main  - 2 -> {content=Czy lubisz psy?}
+2020-07-05 11:53:41,237 [main] INFO  genericquestionaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:56:19,398 [main] INFO  genericquestionaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:56:25,659 [main] INFO  genericquestionaire.Main  - 1 -> {content=Czy lubisz koty?}
+2020-07-05 11:56:25,660 [main] INFO  genericquestionaire.Main  - 2 -> {content=Czy lubisz psy?}
+2020-07-05 11:56:25,660 [main] INFO  genericquestionaire.Main  - Please enter command [listQuestions]:
+2020-07-05 11:56:50,571 [main] INFO  genericquestionaire.Main  - Please enter command [listQuestions]:
